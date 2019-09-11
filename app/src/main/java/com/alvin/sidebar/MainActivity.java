@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
 
     private List<FriendEntity> list = new ArrayList<>();
     public String[] INDEX_STRING = {"安徽", "北京", "成都", "大连", "福建", "广州", "河南","河北","淮北",
-            "江苏", "K", "L", "M", "南京", "欧阳峰","欧阳振华", "R", "S", "T", "U", "V",
+            "江苏", "K", "L", "M", "南京", "Ou阳","OuY昂", "R", "S", "T", "U", "V",
             "W", "X", "Y", "Z"};
     private ContactListAdapter adapter;
     private ContactScrollerAdapter mContactScrollerAdapter;
