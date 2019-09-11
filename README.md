@@ -15,4 +15,4 @@
 
 更多的直接看代码就行，因为不做更新，就不做依赖库了。
 
-![运行后截图](https://github.com/Alvin9234/SideBar/blob/master/screenshot.png)  
+![运行后截图](https://github.com/Alvin9234/SideBar/blob/master/Screenshots.png)  
